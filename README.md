@@ -12,6 +12,6 @@ Implemented with Verilog. Supports MIPS instructions including
 
 <img src="pic\image-20200708180302892.png" alt="image-20200708180302892" style="zoom:80%;" />
 
-<img src="E:\BaiduNetdiskDownload\project2\pic\image-20200708180538973.png" alt="image-20200708180632374" style="zoom:80%;" />
+<img src="pic\image-20200708180538973.png" alt="image-20200708180538973" style="zoom:80%;" />
 
 Include a `Demo.txt` file as demo instructions to run on the CPU. Can be demonstrated on the FPGA board.
